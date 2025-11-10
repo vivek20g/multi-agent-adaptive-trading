@@ -1,0 +1,3 @@
+[submodule "external/lstm-breakout-predictor"]
+	path = external/lstm-breakout-predictor
+	url = https://github.com/vivek20g/lstm-breakout-predictor.git

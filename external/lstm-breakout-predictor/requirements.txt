@@ -1,0 +1,8 @@
+pandas
+numpy
+tensorflow==2.19.0
+ta
+scikit-learn
+joblib
+matplotlib
+openpyxl

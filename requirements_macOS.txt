@@ -1,0 +1,14 @@
+python-dotenv
+tensorflow==2.19.0
+yfinance
+openpyxl
+openai-agents
+asyncio 
+nest_asyncio
+transformers
+scipy
+torch
+markdown-pdf
+ta
+joblib
+scikit-learn
